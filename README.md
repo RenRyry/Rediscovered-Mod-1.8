@@ -1,7 +1,7 @@
-Rediscovered Mod 1.7.10
+Rediscovered Mod 1.8
 ======================
 
-A mod that adds unused, unimplemented, or removed Minecraft features back into Minecraft
+A mod that adds unused, unimplemented, or removed Minecraft features back into Minecraft 1.8
 
 
 License
