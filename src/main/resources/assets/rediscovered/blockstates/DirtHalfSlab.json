@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "dirt=false,half=bottom": { "model": "Rediscovered:DirtHalfSlab" },
+        "dirt=false,half=top": { "model": "Rediscovered:DirtUpperSlab" },
+        "dirt=true,half=bottom": { "model": "Rediscovered:DirtHalfSlab" },
+        "dirt=true,half=top": { "model": "Rediscovered:DirtUpperSlab" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=up": { "model": "Rediscovered:Gear" },
+        "facing=down": { "model": "Rediscovered:Gear_down" },
+        "facing=north": { "model": "Rediscovered:Gear_north" },
+        "facing=south": { "model": "Rediscovered:Gear_south"},
+        "facing=west":  { "model": "Rediscovered:Gear_west"},
+        "facing=east":  { "model": "Rediscovered:Gear_east"}
+	}
+}

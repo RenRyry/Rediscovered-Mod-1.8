@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":    { "model": "Rediscovered:CherryLog" },
+        "axis=z":     { "model": "Rediscovered:CherryLog_side" },
+        "axis=x":     { "model": "Rediscovered:CherryLog_side", "y": 90 },
+        "axis=none":   { "model": "Rediscovered:CherryLog_bark" }
+    }
+}

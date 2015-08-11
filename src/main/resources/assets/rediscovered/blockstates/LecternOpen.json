@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "Rediscovered:Lectern"},
+        "facing=south": { "model": "Rediscovered:Lectern"},
+        "facing=west":  { "model": "Rediscovered:Lectern"},
+        "facing=east":  { "model": "Rediscovered:Lectern"}
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "cherry=false,stage=0": { "model": "Rediscovered:CherrySapling" },
+        "cherry=false,stage=1": { "model": "Rediscovered:CherrySapling" },
+        "cherry=true,stage=0": { "model": "Rediscovered:CherrySapling" },
+        "cherry=true,stage=1": { "model": "Rediscovered:CherrySapling" }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "Rediscovered:blocks/CherryLog_top",
+        "side": "Rediscovered:blocks/CherryLog"
+    }
+}

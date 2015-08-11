@@ -1,0 +1,9 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+	    "particle": "Rediscovered:blocks/LockedChest_top",
+		"top": "Rediscovered:blocks/LockedChest_top",
+        "front": "Rediscovered:blocks/LockedChest_front",
+        "side": "Rediscovered:blocks/LockedChest"
+	}
+}

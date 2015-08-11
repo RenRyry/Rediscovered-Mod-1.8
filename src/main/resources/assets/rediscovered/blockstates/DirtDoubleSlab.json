@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "dirt=false": { "model": "Rediscovered:DirtDoubleSlab" },
+        "dirt=true":    { "model": "Rediscovered:DirtDoubleSlab" }
+    }
+}

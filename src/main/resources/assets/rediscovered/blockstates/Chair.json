@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "Rediscovered:Chair_north"},
+        "facing=south": { "model": "Rediscovered:Chair_south"},
+        "facing=west":  { "model": "Rediscovered:Chair_west"},
+        "facing=east":  { "model": "Rediscovered:Chair_east"}
+	}
+}

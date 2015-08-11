@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "cherry=false": { "model": "Rediscovered:CherryPlank" },
+        "cherry=true":    { "model": "Rediscovered:CherryPlank" }
+    }
+}

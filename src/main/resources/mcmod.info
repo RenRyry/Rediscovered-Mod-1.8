@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rediscovered",
+  "name": "Rediscovered Mod",
+  "description": "A compilation of all of the things that were unused, unimplemented, or removed from Minecraft's files!",
+  "version": "1.1",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Stormister"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

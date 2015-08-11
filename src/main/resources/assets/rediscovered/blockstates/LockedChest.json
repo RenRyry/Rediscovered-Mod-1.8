@@ -1,0 +1,8 @@
+{
+	"variants": {
+        "facing=north": { "model": "Rediscovered:LockedChest" },
+        "facing=south": { "model": "Rediscovered:LockedChest", "y": 180 },
+        "facing=west":  { "model": "Rediscovered:LockedChest", "y": 270 },
+        "facing=east":  { "model": "Rediscovered:LockedChest", "y": 90 }
+    }
+}

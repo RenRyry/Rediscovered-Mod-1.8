@@ -1,0 +1,14 @@
+{
+	"variants": {
+        "check_decay=true,cherry=false,decayable=false": { "model": "Rediscovered:CherryLeaves" },
+        "check_decay=false,cherry=true,decayable=false": { "model": "Rediscovered:CherryLeaves" },
+        "check_decay=false,cherry=false,decayable=true": { "model": "Rediscovered:CherryLeaves" },
+        
+        "check_decay=true,cherry=true,decayable=false": { "model": "Rediscovered:CherryLeaves" },
+        "check_decay=false,cherry=true,decayable=true": { "model": "Rediscovered:CherryLeaves" },
+        "check_decay=true,cherry=false,decayable=true": { "model": "Rediscovered:CherryLeaves" },
+        
+        "check_decay=true,cherry=true,decayable=true": { "model": "Rediscovered:CherryLeaves" },
+        "check_decay=false,cherry=false,decayable=false": { "model": "Rediscovered:CherryLeaves" }
+    }
+}

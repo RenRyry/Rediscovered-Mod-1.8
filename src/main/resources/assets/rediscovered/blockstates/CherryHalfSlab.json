@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "cherry=false,half=bottom": { "model": "Rediscovered:CherryHalfSlab" },
+        "cherry=false,half=top": { "model": "Rediscovered:CherryUpperSlab" },
+        "cherry=true,half=bottom": { "model": "Rediscovered:CherryHalfSlab" },
+        "cherry=true,half=top": { "model": "Rediscovered:CherryUpperSlab" }
+    }
+}

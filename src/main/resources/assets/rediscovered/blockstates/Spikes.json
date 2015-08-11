@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "Rediscovered:Spikes" },
+        "facing=down": { "model": "Rediscovered:Spikes_down" },
+        "facing=north": { "model": "Rediscovered:Spikes_north" },
+        "facing=south": { "model": "Rediscovered:Spikes_south"},
+        "facing=west":  { "model": "Rediscovered:Spikes_west"},
+        "facing=east":  { "model": "Rediscovered:Spikes_east"}
+    }
+}
